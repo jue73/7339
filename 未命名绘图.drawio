@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T13:56:31.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="h3JE6NseF6fOxjKALmKR" version="20.3.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-12T13:58:23.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="d0d-kJJWq2sCTCLli6DH" version="20.3.6" type="github" pages="4">
   <diagram id="EEWwwwGxgyMunJMrgCb3" name="第 1 页">
     <mxGraphModel dx="1528" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -568,22 +568,22 @@
         <mxCell id="JqRIvHsxfR91scSqFXDM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqRIvHsxfR91scSqFXDM-9" target="JqRIvHsxfR91scSqFXDM-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JqRIvHsxfR91scSqFXDM-9" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;根据交易类型统一为属性添加语义&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JqRIvHsxfR91scSqFXDM-9" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;根据交易类型和属性设计索引结构&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="350" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JqRIvHsxfR91scSqFXDM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqRIvHsxfR91scSqFXDM-10" target="JqRIvHsxfR91scSqFXDM-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JqRIvHsxfR91scSqFXDM-10" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;根据交易类型统一为属性添加语义&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JqRIvHsxfR91scSqFXDM-10" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;根据交易类型动态选择区块的下限&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JqRIvHsxfR91scSqFXDM-13" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;丰富查询语义支持关系查询&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JqRIvHsxfR91scSqFXDM-14" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;丰富查询语义支持关系查询&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JqRIvHsxfR91scSqFXDM-14" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;避免连接查询加快查询速度&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JqRIvHsxfR91scSqFXDM-15" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;丰富查询语义支持关系查询&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JqRIvHsxfR91scSqFXDM-15" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;确定区块范围保证结果完整&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
