@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T15:18:53.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="Up9uvcaBZ8GANvWCQ6qd" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-15T15:26:15.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="RsjyW0aOi71uIXiCKfXI" version="20.5.1" type="github" pages="5">
   <diagram id="EEWwwwGxgyMunJMrgCb3" name="第 1 页">
     <mxGraphModel dx="1528" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -510,7 +510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jJfHnc1NMUFH9Z1BWzCk" name="第 4 页">
-    <mxGraphModel dx="502" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,7 +583,7 @@
         <mxCell id="JqRIvHsxfR91scSqFXDM-14" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;避免链间顺序溯源提高查询速度&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="429" y="350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JqRIvHsxfR91scSqFXDM-15" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;验证多链查询结果确保结果正确&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JqRIvHsxfR91scSqFXDM-15" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;提高结果可验证性确保结果正确&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="429" y="400" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
