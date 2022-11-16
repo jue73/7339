@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T17:32:55.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="HtfmU7YHwVQ_Vu4ajnOR" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-16T17:38:05.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="kvLcigBj18-PJZn0gZRV" version="20.5.3" type="github" pages="5">
   <diagram id="EEWwwwGxgyMunJMrgCb3" name="第 1 页">
     <mxGraphModel dx="1528" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -611,29 +611,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUROnDkwd7lS3cWAw1HJ-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="qUv4rjWeHvvC05y0icGD-2" target="_6tjA-eGmYkYkI65pABF-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="250" />
-              <mxPoint x="206" y="250" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-250" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.434;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="qUv4rjWeHvvC05y0icGD-2" target="_6tjA-eGmYkYkI65pABF-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qUROnDkwd7lS3cWAw1HJ-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="qUv4rjWeHvvC05y0icGD-2" target="qUROnDkwd7lS3cWAw1HJ-141">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="250" />
-              <mxPoint x="577" y="250" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-254" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="qUv4rjWeHvvC05y0icGD-2" target="qUROnDkwd7lS3cWAw1HJ-141">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qUROnDkwd7lS3cWAw1HJ-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qUv4rjWeHvvC05y0icGD-2" target="qUROnDkwd7lS3cWAw1HJ-193">
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-258" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;exitX=0.949;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qUv4rjWeHvvC05y0icGD-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="250" />
-              <mxPoint x="933" y="250" />
-            </Array>
+            <mxPoint x="446" y="230" as="sourcePoint" />
+            <mxPoint x="816" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUv4rjWeHvvC05y0icGD-2" value="全节点&lt;br&gt;&lt;br&gt;q:&amp;lt;区块链=区块链A&lt;sub&gt;1&lt;/sub&gt;&lt;font size=&quot;1&quot;&gt;，&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;vaccineId&lt;/span&gt;&lt;sub style=&quot;font-size: 10px;&quot;&gt;=&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;vaccineId&lt;/span&gt;&lt;sub style=&quot;font-size: 10px;&quot;&gt;1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=#FFFFFF;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
@@ -748,6 +735,9 @@
         </mxCell>
         <mxCell id="_C3dxCFtlf0jBk0Q2KPm-36" value="区块链&lt;br&gt;A&lt;sub&gt;1&lt;/sub&gt;、B&lt;sub&gt;1&lt;/sub&gt;、C&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="471" y="180" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-252" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;exitX=0.373;exitY=-0.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_6tjA-eGmYkYkI65pABF-1" target="qUv4rjWeHvvC05y0icGD-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6tjA-eGmYkYkI65pABF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBorderColor=#FFFFFF;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="100" y="290" width="240" height="152.5" as="geometry" />
@@ -1002,6 +992,11 @@
         <mxCell id="qUROnDkwd7lS3cWAw1HJ-36" value="区块链A&lt;sub&gt;1&lt;/sub&gt;块内索引" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="266" y="611.25" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-255" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.646;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;" edge="1" parent="1" target="qUv4rjWeHvvC05y0icGD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qUROnDkwd7lS3cWAw1HJ-141" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBorderColor=#FFFFFF;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="457" y="293.75" width="240" height="152.5" as="geometry" />
         </mxCell>
@@ -1255,6 +1250,11 @@
         <mxCell id="qUROnDkwd7lS3cWAw1HJ-192" value="区块链B&lt;sub&gt;1&lt;/sub&gt;块内索引" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="623" y="615" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-259" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Times New Roman;fontSize=11;fontColor=#FF3333;endArrow=classicThin;endFill=1;exitX=0.029;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qUROnDkwd7lS3cWAw1HJ-193" target="_C3dxCFtlf0jBk0Q2KPm-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qUROnDkwd7lS3cWAw1HJ-193" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBorderColor=#FFFFFF;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="813" y="290" width="240" height="152.5" as="geometry" />
         </mxCell>
@@ -1507,6 +1507,24 @@
         </mxCell>
         <mxCell id="qUROnDkwd7lS3cWAw1HJ-244" value="区块链C&lt;sub&gt;1&lt;/sub&gt;块内索引" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="979" y="611.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-251" value="vaccineId&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-253" value="&amp;lt; 结果&lt;sub&gt;1&lt;/sub&gt;，VO &amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-256" value="vaccineId&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="471" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-257" value="&amp;lt; 结果&lt;sub&gt;2&lt;/sub&gt;，VO &amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="357" y="263.75" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-260" value="vaccineId&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="566" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUROnDkwd7lS3cWAw1HJ-261" value="&amp;lt; 结果&lt;font size=&quot;1&quot;&gt;3&lt;/font&gt;，VO &amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="623" y="230" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
