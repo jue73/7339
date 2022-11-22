@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T08:28:26.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="t10T4F-aZySGFsdupIM1" version="20.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-22T08:28:33.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="huoAeZssOoAXcNSywTKi" version="20.5.3" type="github" pages="8">
   <diagram id="ZU3n9b4aCcOEFEOnBwjy" name="第 6 页">
     <mxGraphModel dx="173" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="Ny4jDVO5X3eja3VG5ipw-17" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Q=&amp;lt;&lt;span style=&quot;&quot;&gt;vaccineId:&lt;/span&gt;&lt;span style=&quot;&quot;&gt;vaccineId&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;1&amp;nbsp;&lt;/sub&gt;, 生产商&lt;sub&gt;1&lt;/sub&gt;&amp;gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#null;strokeColor=#FFFFFF;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1401.54" y="622.64" width="246.54" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0Js6Hdy6M7_5GHLx0M2X-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;R=R(生产商&lt;sub&gt;1&lt;/sub&gt;)&amp;nbsp; jion&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;R(运输商&lt;sub&gt;2&lt;/sub&gt;)&amp;nbsp;jion R(销售商&lt;sub&gt;1&lt;/sub&gt;)&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1676.69" y="617.64" width="330" height="30" as="geometry" />
+        <mxCell id="0Js6Hdy6M7_5GHLx0M2X-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;R=R(生产商&lt;sub&gt;1&lt;/sub&gt;)&amp;nbsp; jion&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;R(运输商&lt;sub&gt;2&lt;/sub&gt;)&amp;nbsp; jion R(销售商&lt;sub&gt;1&lt;/sub&gt;)&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1671.69" y="617.64" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DpDJQaQHhjC4mFd6S42n-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#FF0000;strokeWidth=2;exitX=0.576;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
