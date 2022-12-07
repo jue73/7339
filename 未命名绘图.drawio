@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T02:44:21.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="5s7PpP-HOWDZZaCm7oSR" version="20.6.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-12-07T02:50:24.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="3mWUHumlZNti5HGfih6C" version="20.6.0" type="github" pages="9">
   <diagram id="ZU3n9b4aCcOEFEOnBwjy" name="第 6 页">
-    <mxGraphModel dx="-120" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-235" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="keQuJwHrt17GCSBN-NHR-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=none;dashed=1;dashPattern=1 2;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1831.88" y="720" width="278" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="wKOm8x5GDkJrMU6lB7rc-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=2;fontSize=11;fontColor=#000000;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="0Js6Hdy6M7_5GHLx0M2X-13" target="keQuJwHrt17GCSBN-NHR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -21,6 +24,15 @@
         </mxCell>
         <mxCell id="keQuJwHrt17GCSBN-NHR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=none;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="1531.88" y="720" width="278.27" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nJjefF0LRyjjN6dkCWoJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;strokeWidth=2;fontSize=11;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="keQuJwHrt17GCSBN-NHR-4" target="keQuJwHrt17GCSBN-NHR-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2081" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1604" y="830" />
+              <mxPoint x="2081" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="keQuJwHrt17GCSBN-NHR-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontFamily=Times New Roman;fontSize=13;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1563.76" y="777.5" width="80" height="40" as="geometry" />
@@ -212,9 +224,6 @@
             <mxPoint x="1280.15" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keQuJwHrt17GCSBN-NHR-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=none;dashed=1;dashPattern=1 2;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="1831.88" y="720" width="278" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="keQuJwHrt17GCSBN-NHR-72" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontFamily=Times New Roman;fontSize=13;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1945" y="775" width="80" height="40" as="geometry" />
         </mxCell>
@@ -348,6 +357,22 @@
         </mxCell>
         <mxCell id="keQuJwHrt17GCSBN-NHR-60" value="&lt;b&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;生产链&lt;/span&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1440" y="782.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nJjefF0LRyjjN6dkCWoJ-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=2;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="keQuJwHrt17GCSBN-NHR-60" target="keQuJwHrt17GCSBN-NHR-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="800" as="sourcePoint" />
+            <mxPoint x="1560" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJjefF0LRyjjN6dkCWoJ-3" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#FF0000;strokeWidth=2;fontSize=11;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.426;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="keQuJwHrt17GCSBN-NHR-49" target="keQuJwHrt17GCSBN-NHR-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="800" as="sourcePoint" />
+            <mxPoint x="1560" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1385" y="770" />
+              <mxPoint x="1770" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
