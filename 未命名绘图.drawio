@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T01:37:56.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="zZMnWTyxFxiF04wAYsli" version="20.6.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-12-09T01:43:04.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="LoNq_2Cg3BJMgt5t3wPP" version="20.6.0" type="github" pages="11">
   <diagram id="ZU3n9b4aCcOEFEOnBwjy" name="第 6 页">
     <mxGraphModel dx="-235" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2417,11 +2417,14 @@
         <mxCell id="aiTRp5GjPSNfAvgCSx_s-1" value="用户发起查询申请，&lt;br&gt;Q=[key，trace]" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aiTRp5GjPSNfAvgCSx_s-2" value="根据链内S-GTT Index，获取&lt;span&gt;包含&lt;/span&gt;&lt;span&gt;该属性值&lt;span&gt;的事务位置信息和验证信息&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="195" y="420" width="200" height="40" as="geometry" />
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-2" value="根据链内S-GTT Index，获取&lt;span&gt;包含&lt;/span&gt;&lt;span&gt;该属性值的事务位置信息和验证信息VO&lt;sub&gt;c&lt;/sub&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="420" width="212.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiTRp5GjPSNfAvgCSx_s-3" value="根据链间S-Bitmap Index，&lt;br&gt;判断是否为目标区块链" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-4" value="根据事务位置信息，获得完整事务和验证信息VO&lt;sub&gt;s&lt;/sub&gt;，存入&lt;i&gt;&lt;span style=&quot;font-size:10.5pt;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:幼圆;letter-spacing:&lt;br/&gt;.1pt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA;layout-grid-mode:line&quot; lang=&quot;EN-US&quot;&gt;subr&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.5pt;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:幼圆;letter-spacing:&lt;br/&gt;.1pt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA;layout-grid-mode:line&quot; lang=&quot;EN-US&quot;&gt;esultSet，&lt;/span&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="500" width="212.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
