@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T12:57:23.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="uJuwJVlocVSJrNxQ9135" version="20.6.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-12-09T01:37:56.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="zZMnWTyxFxiF04wAYsli" version="20.6.0" type="github" pages="11">
   <diagram id="ZU3n9b4aCcOEFEOnBwjy" name="第 6 页">
     <mxGraphModel dx="-235" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CqhVgslWbwmqZQYB-1GC" name="第 2 页">
-    <mxGraphModel dx="592" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1985,7 +1985,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="osc_K8CIhsu0_2NUGhIM" name="第 9 页">
-    <mxGraphModel dx="-235" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="208" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2374,8 +2374,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Isw0Xr-zL4BnOunRXaXS" name="第 10 页">
-    <mxGraphModel dx="592" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Isw0Xr-zL4BnOunRXaXS" name="索引流程图">
+    <mxGraphModel dx="1035" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2399,6 +2399,29 @@
         </mxCell>
         <mxCell id="cIQCt3LotZhoj5QEoxmv-5" value="新区块生成后，提取溯源关键字属性，并且根据所在区块链，更新&amp;nbsp; &amp;nbsp; &amp;nbsp; S-Bitmap Index" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QKJ5UnlQt4W2zW4Y6Kfa" name="第 11 页">
+    <mxGraphModel dx="1035" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fitvDgQo6R_G0qAfTPvS-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fitvDgQo6R_G0qAfTPvS-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-1" value="用户发起查询申请，&lt;br&gt;Q=[key，trace]" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-2" value="根据链内S-GTT Index，获取&lt;span&gt;包含&lt;/span&gt;&lt;span&gt;该属性值&lt;span&gt;的事务位置信息和验证信息&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="195" y="420" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-3" value="根据链间S-Bitmap Index，&lt;br&gt;判断是否为目标区块链" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
