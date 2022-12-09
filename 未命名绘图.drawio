@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T01:43:04.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="LoNq_2Cg3BJMgt5t3wPP" version="20.6.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-12-09T02:16:12.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="vtQhADgN3qSrnbY_WSOr" version="20.6.0" type="github" pages="11">
   <diagram id="ZU3n9b4aCcOEFEOnBwjy" name="第 6 页">
     <mxGraphModel dx="-235" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2412,19 +2412,28 @@
           <mxGeometry x="260" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fitvDgQo6R_G0qAfTPvS-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aiTRp5GjPSNfAvgCSx_s-1" value="用户发起查询申请，&lt;br&gt;Q=[key，trace]" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="150" height="40" as="geometry" />
+          <mxGeometry x="215" y="210" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiTRp5GjPSNfAvgCSx_s-2" value="根据链内S-GTT Index，获取&lt;span&gt;包含&lt;/span&gt;&lt;span&gt;该属性值的事务位置信息和验证信息VO&lt;sub&gt;c&lt;/sub&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="420" width="212.5" height="40" as="geometry" />
+          <mxGeometry x="183.75" y="370" width="212.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiTRp5GjPSNfAvgCSx_s-3" value="根据链间S-Bitmap Index，&lt;br&gt;判断是否为目标区块链" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="210" height="60" as="geometry" />
+          <mxGeometry x="185" y="280" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aiTRp5GjPSNfAvgCSx_s-4" value="根据事务位置信息，获得完整事务和验证信息VO&lt;sub&gt;s&lt;/sub&gt;，存入&lt;i&gt;&lt;span style=&quot;font-size:10.5pt;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:幼圆;letter-spacing:&lt;br/&gt;.1pt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA;layout-grid-mode:line&quot; lang=&quot;EN-US&quot;&gt;subr&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.5pt;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:幼圆;letter-spacing:&lt;br/&gt;.1pt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA;layout-grid-mode:line&quot; lang=&quot;EN-US&quot;&gt;esultSet，&lt;/span&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="500" width="212.5" height="40" as="geometry" />
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-4" value="根据事务位置信息，获得完整事务信息并存入&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;subr&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;esultSet，获得&lt;/span&gt;&lt;/i&gt;验证信息VO&lt;sub&gt;s&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="440" width="212.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-5" value="将所有&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;subr&lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;i&gt;esultSet、VOc&lt;/i&gt;和&lt;i&gt;VOs&lt;/i&gt;取并集，分别存入&lt;/span&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;resultSe&lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; letter-spacing: 0.1pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;i&gt;t&lt;/i&gt;和&lt;i&gt;VO&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="510" width="212.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-7" value="返回&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;resultSe&lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; letter-spacing: 0.1pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;i&gt;t&lt;/i&gt;和&lt;i&gt;VO&lt;/i&gt;&lt;/span&gt;，并&lt;br&gt;判断是否需要验证" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="585" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiTRp5GjPSNfAvgCSx_s-8" value="根据事务位置信息及VO&lt;sub&gt;c&lt;/sub&gt;，生成GTT root，&lt;br&gt;根据事务完整信息及VO&lt;sub&gt;s&lt;/sub&gt;，生成Merkle root" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=11;fontColor=#000000;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="153.75" y="680" width="272.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
