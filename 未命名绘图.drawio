@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T07:00:52.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="RdAj9tBWOpdYAR54j_qg" version="21.1.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-21T07:01:05.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="TJbi89oGQ-Pptoe9LS_B" version="21.1.7" type="github" pages="9">
   <diagram id="UV_W2XSWBkwxHTPNsZck" name="基于分片的区块链存储模型">
     <mxGraphModel dx="756" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1484,7 +1484,7 @@
           <mxGeometry x="1428.06" y="760" width="29.51" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PAkTkPLO5oe0lm6-wgQL-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fillColor=none;dashed=1;dashPattern=1 2;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="540" width="240" height="250" as="geometry" />
+          <mxGeometry x="1510" y="540" width="240" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PAkTkPLO5oe0lm6-wgQL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAkTkPLO5oe0lm6-wgQL-21">
           <mxGeometry relative="1" as="geometry">
