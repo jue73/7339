@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T17:07:43.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="2Svo-VYgqPEKVh5rrI_D" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-10T17:10:50.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="TVHjGpfyy_hkEnuJKmQj" version="22.1.0" type="github" pages="4">
   <diagram name="第 1 页" id="duYfF738FFXLdUVlWwJw">
     <mxGraphModel dx="568" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,6 +106,59 @@
         </mxCell>
         <mxCell id="YSTus_24vcbSOrq1fish-9" value="准确性检测模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NSO1p1elAoegMS5FJW9e" name="第 4 页">
+    <mxGraphModel dx="416" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IXZvvqu_5NTiVDgzNTZM-2" target="IXZvvqu_5NTiVDgzNTZM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;确定权重系数&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IXZvvqu_5NTiVDgzNTZM-4" target="IXZvvqu_5NTiVDgzNTZM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;评估匿名化程度&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IXZvvqu_5NTiVDgzNTZM-6" target="IXZvvqu_5NTiVDgzNTZM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;评估加密保护&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IXZvvqu_5NTiVDgzNTZM-8" target="IXZvvqu_5NTiVDgzNTZM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;评估访问控制&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IXZvvqu_5NTiVDgzNTZM-9" target="IXZvvqu_5NTiVDgzNTZM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;评估隐私政策合规性&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IXZvvqu_5NTiVDgzNTZM-10" target="IXZvvqu_5NTiVDgzNTZM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;审计和检查&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IXZvvqu_5NTiVDgzNTZM-11" target="IXZvvqu_5NTiVDgzNTZM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;评估风险管理&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZvvqu_5NTiVDgzNTZM-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;分析和改进&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
