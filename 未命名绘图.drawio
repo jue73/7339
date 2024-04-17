@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T12:30:14.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MqO1YCN4hp7dZ1LIG-ow" version="24.2.5" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2024-04-17T12:30:56.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GhJXBXQlWzl3nbODHnCa" version="24.2.5" type="github" pages="24">
   <diagram id="DFAGXjSHD3ol3ZpnwgPO" name="1.1">
     <mxGraphModel dx="127" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,8 +474,8 @@
         <mxCell id="_5tQFRiHUlqZ3CF9O6fR-3" value="&lt;font face=&quot;方正书宋体&quot;&gt;Q:&amp;lt;[hospital=hospital1，LOT=0d1c],[生产商，运输商、销售商、医院]&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1415.8999999999999" y="585" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_5tQFRiHUlqZ3CF9O6fR-4" value="&lt;font face=&quot;方正书宋体&quot;&gt;R:&amp;lt;0d1c,生产商&lt;sub&gt;1&lt;/sub&gt;,运输商&lt;sub&gt;1&lt;/sub&gt;,销售商&lt;sub&gt;2&lt;/sub&gt;,医院&lt;sub&gt;1&lt;/sub&gt;]&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1499.9999999999998" y="990" width="250" height="30" as="geometry" />
+        <mxCell id="_5tQFRiHUlqZ3CF9O6fR-4" value="&lt;font face=&quot;方正书宋体&quot;&gt;R:&amp;lt;0d1c,生产商&lt;sub&gt;1&lt;/sub&gt;,运输商&lt;sub&gt;1&lt;/sub&gt;,销售商&lt;sub&gt;2&lt;/sub&gt;,医院&lt;sub&gt;1&lt;/sub&gt;]&amp;gt;,VO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1489.9999999999998" y="990" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_5tQFRiHUlqZ3CF9O6fR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5tQFRiHUlqZ3CF9O6fR-5" target="_5tQFRiHUlqZ3CF9O6fR-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
