@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T14:08:38.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DgZ8lH_RA4BbFm5kI_Ph" version="24.3.0" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2024-04-24T14:11:38.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VhEOmugiL1krRpoJ8ZL-" version="24.3.0" type="github" pages="23">
   <diagram id="DFAGXjSHD3ol3ZpnwgPO" name="1.1">
     <mxGraphModel dx="127" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5800,7 +5800,7 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-17" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-433.25" y="550" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-18" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-18" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-433.25" y="510" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-19" value="版本号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -5812,7 +5812,7 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PblSZHCcIFbqokboDm8l-22" target="PblSZHCcIFbqokboDm8l-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-22" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-22" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-433.25" y="650" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-24" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -5833,7 +5833,7 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-30" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-285.5" y="550" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-31" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-31" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-285.5" y="510" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;版本号&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -5845,7 +5845,7 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PblSZHCcIFbqokboDm8l-34" target="PblSZHCcIFbqokboDm8l-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-34" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-34" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-285.5" y="650" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-36" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -5869,7 +5869,7 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-41" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-135.5" y="550" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-42" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-42" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-135.5" y="510" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-43" value="版本号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -5881,7 +5881,7 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PblSZHCcIFbqokboDm8l-45" target="PblSZHCcIFbqokboDm8l-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-45" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-45" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-135.5" y="650" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-47" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
