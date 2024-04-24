@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T05:14:02.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ucKCVtqD8FFBrB1eTDs7" version="24.2.7" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2024-04-24T05:15:59.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6Wj9CT_Q6GyUOsAhcA4q" version="24.2.7" type="github" pages="24">
   <diagram id="DFAGXjSHD3ol3ZpnwgPO" name="1.1">
     <mxGraphModel dx="367" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5970,16 +5970,16 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-17" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-434.25" y="580" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-18" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-18" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-434.25" y="540" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-19" value="版本号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-434.25" y="500" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-21" value="Merkle根哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-21" value="Merkle根哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-434.25" y="630" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-22" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-22" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-434.25" y="700" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-23" value="其他元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -6009,16 +6009,16 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-30" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-286.5" y="580" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-31" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-31" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-286.5" y="540" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-32" value="版本号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-286.5" y="500" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-33" value="Merkle根哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-33" value="Merkle根哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-286.5" y="630" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-34" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-34" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-286.5" y="700" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-35" value="其他元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -6048,16 +6048,16 @@
         <mxCell id="PblSZHCcIFbqokboDm8l-41" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-136.5" y="580" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-42" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-42" value="前一区块哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-136.5" y="540" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-43" value="版本号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-136.5" y="500" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-44" value="Merkle根哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-44" value="Merkle根哈希" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-136.5" y="630" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PblSZHCcIFbqokboDm8l-45" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PblSZHCcIFbqokboDm8l-45" value="交易列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-136.5" y="700" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-46" value="其他元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
