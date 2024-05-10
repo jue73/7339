@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T05:57:52.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WR_pi0cWOfLIDLkGfg3d" version="24.3.1" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-05-10T06:58:42.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kmfNpyvOxrdlzRYhYFUJ" version="24.3.1" type="github" pages="25">
   <diagram id="DFAGXjSHD3ol3ZpnwgPO" name="1.1">
     <mxGraphModel dx="432" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,14 +402,14 @@
         <mxCell id="R7jDz1_mCt4FzLNwW72T-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1378.2" y="708.75" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="R7jDz1_mCt4FzLNwW72T-2" value="&lt;font face=&quot;方正书宋体&quot;&gt;生产商&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="716.25" width="70" height="30" as="geometry" />
+        <mxCell id="R7jDz1_mCt4FzLNwW72T-2" value="&lt;font face=&quot;宋体&quot;&gt;生产商&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1305" y="716.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7jDz1_mCt4FzLNwW72T-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1408.21" y="691.25" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="R7jDz1_mCt4FzLNwW72T-4" value="&lt;font face=&quot;方正书宋体&quot;&gt;运输商&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1430.0000000000002" y="706.25" width="70" height="30" as="geometry" />
+        <mxCell id="R7jDz1_mCt4FzLNwW72T-4" value="&lt;font face=&quot;宋体&quot;&gt;运输商&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1435.0000000000002" y="706.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7jDz1_mCt4FzLNwW72T-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1383.2100000000003" y="747.5" width="25" height="25" as="geometry" />
@@ -453,13 +453,13 @@
         <mxCell id="R7jDz1_mCt4FzLNwW72T-22" value="&lt;font face=&quot;方正书宋简体&quot;&gt;销售商&lt;sub&gt;3&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1869" y="722.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R7jDz1_mCt4FzLNwW72T-27" value="&lt;font face=&quot;方正书宋体&quot;&gt;分片&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="R7jDz1_mCt4FzLNwW72T-27" value="&lt;font face=&quot;宋体&quot;&gt;分片&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1370.8900000000003" y="650" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R7jDz1_mCt4FzLNwW72T-32" value="&lt;font face=&quot;方正书宋体&quot;&gt;分片&lt;sub style=&quot;&quot;&gt;3&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="R7jDz1_mCt4FzLNwW72T-32" value="&lt;font face=&quot;宋体&quot;&gt;分片&lt;sub style=&quot;&quot;&gt;3&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1824" y="647.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R7jDz1_mCt4FzLNwW72T-33" value="&lt;font face=&quot;方正书宋体&quot;&gt;分片&lt;sub style=&quot;&quot;&gt;2&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="R7jDz1_mCt4FzLNwW72T-33" value="&lt;font face=&quot;宋体&quot;&gt;分片&lt;sub style=&quot;&quot;&gt;2&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1599.9999999999998" y="650" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_5tQFRiHUlqZ3CF9O6fR-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -471,8 +471,8 @@
         <mxCell id="_5tQFRiHUlqZ3CF9O6fR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5tQFRiHUlqZ3CF9O6fR-3" target="_5tQFRiHUlqZ3CF9O6fR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5tQFRiHUlqZ3CF9O6fR-3" value="&lt;font face=&quot;方正书宋体&quot;&gt;Q:&amp;lt;[hospital=hospital1，LOT=0d1c],[生产商，运输商、销售商、医院]&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1415.8999999999999" y="585" width="420" height="30" as="geometry" />
+        <mxCell id="_5tQFRiHUlqZ3CF9O6fR-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Q:&amp;lt;[hospital=hospital1，LOT=0d1c],[生产商，运输商、销售商、医院]&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1430.8999999999999" y="585" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_5tQFRiHUlqZ3CF9O6fR-4" value="&lt;font face=&quot;方正书宋体&quot;&gt;R:&amp;lt;0d1c,生产商&lt;sub&gt;1&lt;/sub&gt;,运输商&lt;sub&gt;1&lt;/sub&gt;,销售商&lt;sub&gt;2&lt;/sub&gt;,医院&lt;sub&gt;1&lt;/sub&gt;]&amp;gt;,VO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1489.9999999999998" y="990" width="270" height="30" as="geometry" />
