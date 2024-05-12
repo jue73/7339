@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T14:12:06.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Utl7SE1yVDAv9wDNBMvr" version="24.4.0" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2024-05-12T14:27:07.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3UAEtAJX6yaLvEe8C-Kw" version="24.4.0" type="github" pages="21">
   <diagram id="DFAGXjSHD3ol3ZpnwgPO" name="1.1">
     <mxGraphModel dx="236" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4922,10 +4922,10 @@
         <mxCell id="ZtVzB7l11bsTbNJ0X8yh-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-503.75" y="400" width="144" height="241" as="geometry" />
         </mxCell>
-        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-497.75" y="434" width="131" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-497.75" y="550" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="PblSZHCcIFbqokboDm8l-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;前一区块哈希&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4991,10 +4991,10 @@
         <mxCell id="ZtVzB7l11bsTbNJ0X8yh-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-334" y="400" width="144" height="241" as="geometry" />
         </mxCell>
-        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-328" y="434" width="131" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-328" y="550" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="ZtVzB7l11bsTbNJ0X8yh-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;前一区块哈希&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -5057,10 +5057,10 @@
         <mxCell id="ZtVzB7l11bsTbNJ0X8yh-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-161" y="400" width="144" height="241" as="geometry" />
         </mxCell>
-        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-154" y="434" width="131" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-154" y="550" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="ZtVzB7l11bsTbNJ0X8yh-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;前一区块哈希&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -5105,7 +5105,7 @@
         <mxCell id="ZtVzB7l11bsTbNJ0X8yh-85" value="版本号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-146.5" y="441" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-86" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZtVzB7l11bsTbNJ0X8yh-86" value="时间戳" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-85.5" y="441" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZtVzB7l11bsTbNJ0X8yh-87" value="&lt;font face=&quot;Times New Roman&quot;&gt;区块号&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -5620,7 +5620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xuGcZio_80ZafL11dCtB" name="第 28 页">
-    <mxGraphModel dx="607" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
